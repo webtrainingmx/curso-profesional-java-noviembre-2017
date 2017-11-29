@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bookmarker">
+    <output-path>$PROJECT_DIR$/out/artifacts/bookmarker</output-path>
+    <root id="archive" name="bookmarker.war" />
+  </artifact>
+</component>
